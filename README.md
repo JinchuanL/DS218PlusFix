@@ -1,4 +1,4 @@
-# DS218+Fix
+# DS218+ Fix
 This repo is for Synology DS218+ Blue Light Blinking Dead Fix.
 
 This bios.ROM file is for Synology DS218+ ONLY.
